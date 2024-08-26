@@ -1,2 +1,3 @@
 # Happy-Plant-Frontend
-🪴 Happy Plant is a full-stack application designed to help you track the care of your houseplants. The backend is built with Java Spring Boot, while the frontend is developed using Next.js.
+
+🌸 Happy Plant Frontend is a Next.js application made for managing houseplants. This frontend application interacts with the Happy Plant - Backend via RESTful APIs to allow users to manage watering schedules of the houseplants.
